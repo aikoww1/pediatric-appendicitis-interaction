@@ -34,10 +34,6 @@ The notebook writes output files to `interaction_outputs_final_clean/` (tables, 
 - Discrimination, clinical threshold summaries and repeated cross-validation
 - Exploratory all-pairs interaction screen with false-discovery-rate correction
 
-## Verification status
-
-The notebook was reviewed structurally and Python code cells were syntax-checked, but **the complete analysis was not re-executed** in this preparation because `app_data.xlsx` was not supplied with the notebook. Results in the manuscript must be compared against a fresh end-to-end execution before submission. In particular, check the multiple-imputation estimates in the manuscript's Table S17 against Table S22 and the final exported results.
-
 ## Citation
 
 Regensburg Pediatric Appendicitis Dataset, version 1.01: https://doi.org/10.5281/zenodo.7669442.
